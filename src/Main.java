@@ -7,7 +7,7 @@ public class Main {
             System.out.println("Если возраст человека меньше 18, то он не достиг совершеннолетия и надо немного подождать");
         }
 
-        int temperature = 10;
+        int temperature = 11;
         if (temperature < 5) {
             System.out.println("На улице " + temperature + " градусов, холодно и надо одеть шапку");
         } else {
